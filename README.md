@@ -72,6 +72,4 @@ Usage: python evilPatcher.py elfFile sandboxFile
 ![](picture/4.png)
 
 
-**更多细节**
 
-https://bbs.pediy.com/thread-273437.htm
